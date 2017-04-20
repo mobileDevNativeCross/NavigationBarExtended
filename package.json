@@ -1,5 +1,5 @@
 {
-  "name": "navigationBarExtended",
+  "name": "navigatorExtended",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "15.4.1",
+    "react-native": "0.42.0",
+  }
 }
